@@ -2,9 +2,9 @@ import requests
 import re
 import os
 
-url = input("Paste a Missevan drama or single sound link here: ")
+url = input(https://www.missevan.com/sound/player?id=8309808)
 cookie = input("Please paste your cookie here or press enter skip it: ")
-target_folder = input("Input target folder or press enter to skip it: ")
+target_folder = input(C:\Users\赵溪\Downloads)
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36",
